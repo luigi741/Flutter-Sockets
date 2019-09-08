@@ -1,6 +1,6 @@
 # flutter_sockets
 
-A new Flutter project.
+Just a quick and simple application to test connection to a Web Socket server running on Node.js
 
 ## Getting Started
 
